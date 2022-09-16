@@ -1,15 +1,17 @@
-# NLW eSports - Trilha Explorer
+# NLW eSports - Explorer Trail
 ![preview](./.github/preview.png)
-> Trilha Explorer
+> Explorer Trail
 
-Projeto construído do evento Next Level Week Rocketseat
+Project built at the Next Level Week Rocketseat event
 
-[🔗 clique aqui para acessar](https://neIsonp.github.io/nlw-esports-explorer)
+[🔗 click here to access](https://neIsonp.github.io/nlw-esports-explorer)
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 - HTML
 - CSS
-- Git e Github
+- Git and Github
 
-## 📨 Contato
+## 📨 Contact
+
+nelsonponte37@gmail.com
